@@ -1,5 +1,5 @@
 #Specify a base Image
-FROM node:alpine
+FROM registry.docker.ir/node:alpine
 
 #add working dir
 WORKDIR /usr/app
